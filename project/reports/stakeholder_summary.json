@@ -1,0 +1,542 @@
+{
+  "executive": {
+    "total_reviews": 50000,
+    "avg_rating": 4.18404,
+    "rating_trend_6m": {
+      "2012-05": 4.111815561959654,
+      "2012-06": 4.071655041217501,
+      "2012-07": 4.1609529343405,
+      "2012-08": 4.146726862302483,
+      "2012-09": 4.091960063058329,
+      "2012-10": 4.204161979752531
+    },
+    "emerging_risks": [
+      {
+        "defect_type": "stale",
+        "count": 453,
+        "avg_score": 2.814569536423841,
+        "recent_count": 51,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "broken",
+        "count": 451,
+        "avg_score": 3.481152993348115,
+        "recent_count": 49,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "spoiled",
+        "count": 157,
+        "avg_score": 3.847133757961784,
+        "recent_count": 17,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "mold",
+        "count": 145,
+        "avg_score": 2.717241379310345,
+        "recent_count": 15,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "expired",
+        "count": 114,
+        "avg_score": 2.289473684210526,
+        "recent_count": 10,
+        "immediate_action": false
+      }
+    ],
+    "opportunities": [
+      {
+        "cluster": 0,
+        "count": 300,
+        "avg_score": 3.883333333333333,
+        "sample_request": "on or Amazing Deals needs to make the expiration date listing more obvious Who wants to pay for stale Lar"
+      },
+      {
+        "cluster": 3,
+        "count": 284,
+        "avg_score": 3.838028169014085,
+        "sample_request": "d way over priced i would like to return the items and be reimbursed for cost and return shipping"
+      },
+      {
+        "cluster": 7,
+        "count": 195,
+        "avg_score": 4.471794871794872,
+        "sample_request": "e nutrients my body needs"
+      },
+      {
+        "cluster": 2,
+        "count": 168,
+        "avg_score": 3.988095238095238,
+        "sample_request": "Missing Produect I ordered a package of 8 units where each unit contains 40 pieces It i"
+      },
+      {
+        "cluster": 4,
+        "count": 140,
+        "avg_score": 3.764285714285714,
+        "sample_request": "ergy and constantly needs to be busy I bought the product in hopes to help w his teething and keeping him"
+      }
+    ]
+  },
+  "product": {
+    "top_requested_features": [
+      {
+        "cluster": 0,
+        "count": 300,
+        "avg_score": 3.883333333333333,
+        "sample_request": "on or Amazing Deals needs to make the expiration date listing more obvious Who wants to pay for stale Lar"
+      },
+      {
+        "cluster": 3,
+        "count": 284,
+        "avg_score": 3.838028169014085,
+        "sample_request": "d way over priced i would like to return the items and be reimbursed for cost and return shipping"
+      },
+      {
+        "cluster": 7,
+        "count": 195,
+        "avg_score": 4.471794871794872,
+        "sample_request": "e nutrients my body needs"
+      },
+      {
+        "cluster": 2,
+        "count": 168,
+        "avg_score": 3.988095238095238,
+        "sample_request": "Missing Produect I ordered a package of 8 units where each unit contains 40 pieces It i"
+      },
+      {
+        "cluster": 4,
+        "count": 140,
+        "avg_score": 3.764285714285714,
+        "sample_request": "ergy and constantly needs to be busy I bought the product in hopes to help w his teething and keeping him"
+      },
+      {
+        "cluster": 5,
+        "count": 119,
+        "avg_score": 4.168067226890757,
+        "sample_request": "cupcake decorating needs that is until i tried a cupcake that i had LIGHTLY dusted with the glitter It f"
+      },
+      {
+        "cluster": 1,
+        "count": 114,
+        "avg_score": 4.140350877192983,
+        "sample_request": "is good your surely missing out on alot of other great products It seems some new age products coming out a"
+      },
+      {
+        "cluster": 6,
+        "count": 42,
+        "avg_score": 4.095238095238095,
+        "sample_request": "for the nutritional needs of cats I was lucky to see the light before my cat developed any serious health"
+      }
+    ],
+    "top_defects": [
+      {
+        "defect_type": "stale",
+        "count": 453,
+        "avg_score": 2.814569536423841,
+        "recent_count": 51,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "broken",
+        "count": 451,
+        "avg_score": 3.481152993348115,
+        "recent_count": 49,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "spoiled",
+        "count": 157,
+        "avg_score": 3.847133757961784,
+        "recent_count": 17,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "mold",
+        "count": 145,
+        "avg_score": 2.717241379310345,
+        "recent_count": 15,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "expired",
+        "count": 114,
+        "avg_score": 2.289473684210526,
+        "recent_count": 10,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "rancid",
+        "count": 110,
+        "avg_score": 2.5,
+        "recent_count": 14,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "cracked",
+        "count": 80,
+        "avg_score": 3.5375,
+        "recent_count": 6,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "defective",
+        "count": 46,
+        "avg_score": 2.065217391304348,
+        "recent_count": 3,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "stopped working",
+        "count": 5,
+        "avg_score": 3.2,
+        "recent_count": 1,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "malfunction",
+        "count": 4,
+        "avg_score": 3.0,
+        "recent_count": 0,
+        "immediate_action": false
+      }
+    ],
+    "recommendations": [
+      "Address top defect themes in QA checklist",
+      "Prioritize features with highest request volume",
+      "Monitor products with declining avg_score"
+    ]
+  },
+  "customer_experience": {
+    "top_complaint_topics": [
+      {
+        "label": "china_made_usa",
+        "count": 199,
+        "avg_score": 2.5979899497487438
+      },
+      {
+        "label": "date_expiration_fresh",
+        "count": 155,
+        "avg_score": 2.761290322580645
+      },
+      {
+        "label": "cans_dented_pumpkin",
+        "count": 173,
+        "avg_score": 2.878612716763006
+      },
+      {
+        "label": "price_00_cheaper",
+        "count": 131,
+        "avg_score": 3.1908396946564888
+      },
+      {
+        "label": "trap_gopher_tunnel",
+        "count": 156,
+        "avg_score": 3.608974358974359
+      }
+    ],
+    "escalation_priorities": []
+  },
+  "marketing": {
+    "positive_themes": [
+      {
+        "label": "addictive_addicting_these",
+        "count": 62
+      },
+      {
+        "label": "seasoning_chicken_it",
+        "count": 111
+      },
+      {
+        "label": "snack_snacks_great",
+        "count": 243
+      },
+      {
+        "label": "pill_pockets_pills",
+        "count": 176
+      },
+      {
+        "label": "chicken_bouillon_broth",
+        "count": 69
+      }
+    ],
+    "purchase_drivers": [
+      {
+        "category": "positive",
+        "phrase": "flavorings",
+        "score": 0.4643
+      },
+      {
+        "category": "positive",
+        "phrase": "flavors",
+        "score": 0.4572
+      },
+      {
+        "category": "positive",
+        "phrase": "cereal",
+        "score": 0.4449
+      },
+      {
+        "category": "positive",
+        "phrase": "keurig",
+        "score": 0.4235
+      },
+      {
+        "category": "positive",
+        "phrase": "flavorful",
+        "score": 0.3985
+      },
+      {
+        "category": "positive",
+        "phrase": "tasting",
+        "score": 0.3945
+      },
+      {
+        "category": "positive",
+        "phrase": "sweetener",
+        "score": 0.3916
+      },
+      {
+        "category": "positive",
+        "phrase": "flavor",
+        "score": 0.3861
+      },
+      {
+        "category": "positive",
+        "phrase": "flavoring",
+        "score": 0.3861
+      },
+      {
+        "category": "positive",
+        "phrase": "chocolate",
+        "score": 0.3858
+      }
+    ]
+  },
+  "business_questions": {
+    "why_ratings_change": {
+      "2012-05": 4.111815561959654,
+      "2012-06": 4.071655041217501,
+      "2012-07": 4.1609529343405,
+      "2012-08": 4.146726862302483,
+      "2012-09": 4.091960063058329,
+      "2012-10": 4.204161979752531
+    },
+    "common_complaints": [
+      {
+        "label": "china_made_usa",
+        "count": 199,
+        "avg_score": 2.5979899497487438
+      },
+      {
+        "label": "date_expiration_fresh",
+        "count": 155,
+        "avg_score": 2.761290322580645
+      },
+      {
+        "label": "cans_dented_pumpkin",
+        "count": 173,
+        "avg_score": 2.878612716763006
+      },
+      {
+        "label": "price_00_cheaper",
+        "count": 131,
+        "avg_score": 3.1908396946564888
+      },
+      {
+        "label": "trap_gopher_tunnel",
+        "count": 156,
+        "avg_score": 3.608974358974359
+      }
+    ],
+    "feature_requests": [
+      {
+        "cluster": 0,
+        "count": 300,
+        "avg_score": 3.883333333333333,
+        "sample_request": "on or Amazing Deals needs to make the expiration date listing more obvious Who wants to pay for stale Lar"
+      },
+      {
+        "cluster": 3,
+        "count": 284,
+        "avg_score": 3.838028169014085,
+        "sample_request": "d way over priced i would like to return the items and be reimbursed for cost and return shipping"
+      },
+      {
+        "cluster": 7,
+        "count": 195,
+        "avg_score": 4.471794871794872,
+        "sample_request": "e nutrients my body needs"
+      },
+      {
+        "cluster": 2,
+        "count": 168,
+        "avg_score": 3.988095238095238,
+        "sample_request": "Missing Produect I ordered a package of 8 units where each unit contains 40 pieces It i"
+      },
+      {
+        "cluster": 4,
+        "count": 140,
+        "avg_score": 3.764285714285714,
+        "sample_request": "ergy and constantly needs to be busy I bought the product in hopes to help w his teething and keeping him"
+      },
+      {
+        "cluster": 5,
+        "count": 119,
+        "avg_score": 4.168067226890757,
+        "sample_request": "cupcake decorating needs that is until i tried a cupcake that i had LIGHTLY dusted with the glitter It f"
+      },
+      {
+        "cluster": 1,
+        "count": 114,
+        "avg_score": 4.140350877192983,
+        "sample_request": "is good your surely missing out on alot of other great products It seems some new age products coming out a"
+      },
+      {
+        "cluster": 6,
+        "count": 42,
+        "avg_score": 4.095238095238095,
+        "sample_request": "for the nutritional needs of cats I was lucky to see the light before my cat developed any serious health"
+      }
+    ],
+    "positive_drivers": [
+      {
+        "topic_id": 85,
+        "label": "addictive_addicting_these",
+        "count": 62,
+        "avg_score": 4.935483870967742,
+        "representative_terms": "addictive, addicting, these, they, them, are, addicted, in"
+      },
+      {
+        "topic_id": 71,
+        "label": "seasoning_chicken_it",
+        "count": 111,
+        "avg_score": 4.774774774774775,
+        "representative_terms": "seasoning, chicken, it, on, steak, used, this, pork"
+      },
+      {
+        "topic_id": 29,
+        "label": "snack_snacks_great",
+        "count": 243,
+        "avg_score": 4.765432098765432,
+        "representative_terms": "snack, snacks, great, crunchy, these, healthy, are, them"
+      },
+      {
+        "topic_id": 57,
+        "label": "pill_pockets_pills",
+        "count": 176,
+        "avg_score": 4.659090909090909,
+        "representative_terms": "pill, pockets, pills, pocket, cat, medicine, meds, her"
+      },
+      {
+        "topic_id": 75,
+        "label": "chicken_bouillon_broth",
+        "count": 69,
+        "avg_score": 4.6521739130434785,
+        "representative_terms": "chicken, bouillon, broth, gravy, use, base, dumplings, cubes"
+      }
+    ],
+    "emerging_defects": [
+      {
+        "defect_type": "stale",
+        "count": 453,
+        "avg_score": 2.814569536423841,
+        "recent_count": 51,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "broken",
+        "count": 451,
+        "avg_score": 3.481152993348115,
+        "recent_count": 49,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "spoiled",
+        "count": 157,
+        "avg_score": 3.847133757961784,
+        "recent_count": 17,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "mold",
+        "count": 145,
+        "avg_score": 2.717241379310345,
+        "recent_count": 15,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "expired",
+        "count": 114,
+        "avg_score": 2.289473684210526,
+        "recent_count": 10,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "rancid",
+        "count": 110,
+        "avg_score": 2.5,
+        "recent_count": 14,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "cracked",
+        "count": 80,
+        "avg_score": 3.5375,
+        "recent_count": 6,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "defective",
+        "count": 46,
+        "avg_score": 2.065217391304348,
+        "recent_count": 3,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "stopped working",
+        "count": 5,
+        "avg_score": 3.2,
+        "recent_count": 1,
+        "immediate_action": false
+      },
+      {
+        "defect_type": "malfunction",
+        "count": 4,
+        "avg_score": 3.0,
+        "recent_count": 0,
+        "immediate_action": false
+      }
+    ],
+    "immediate_action": [],
+    "low_rating_topics": [
+      {
+        "label": "china_made_usa",
+        "count": 199,
+        "avg_score": 2.5979899497487438
+      },
+      {
+        "label": "date_expiration_fresh",
+        "count": 155,
+        "avg_score": 2.761290322580645
+      },
+      {
+        "label": "cans_dented_pumpkin",
+        "count": 173,
+        "avg_score": 2.878612716763006
+      },
+      {
+        "label": "price_00_cheaper",
+        "count": 131,
+        "avg_score": 3.1908396946564888
+      },
+      {
+        "label": "trap_gopher_tunnel",
+        "count": 156,
+        "avg_score": 3.608974358974359
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "total_input": 568454,
+  "valid_rows": 568454,
+  "dropped_rows": 0,
+  "validation_errors_sample": [],
+  "missing_values": {
+    "Id": 0,
+    "ProductId": 0,
+    "UserId": 0,
+    "ProfileName": 26,
+    "HelpfulnessNumerator": 0,
+    "HelpfulnessDenominator": 0,
+    "Score": 0,
+    "Time": 0,
+    "Summary": 27,
+    "Text": 0
+  }
+}

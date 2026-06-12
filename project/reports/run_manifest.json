@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-11T14:03:30.248860+00:00",
+  "row_count": 50000,
+  "sample_size": 50000,
+  "random_seed": 42,
+  "embedding_models": [
+    "all-mpnet-base-v2",
+    "BAAI/bge-small-en-v1.5"
+  ]
+}
